@@ -27,7 +27,7 @@
 
 https://github-readme-stats.vercel.app/api/pin/?username=Juanmadator&repo=github-readme-stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanmadator&hide_progress=true)
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=Juanmadator&hide_progress=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanmadator))
 
 <!--<a href="https://git.io/streak-stats" ><img  src="https://streak-stats.demolab.com?user=Juanmadator&theme=monokai&hide_border=true&border_radius=5&locale=es" alt="GitHub Streak" /></a>-->
 </body>
