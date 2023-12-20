@@ -23,6 +23,8 @@
 - 🖱️  Actualmente aprendiendo **Laravel y Angular, API REST**...
 - 🏋️‍♀️ Me gusta cuidarme 
 
+[![Juanmadator stats](https://github-readme-stats.vercel.app/api/wakatime?username=Juanmadator)](https://github.com/Juanmadator/github-readme-stats)
+
 <a href="https://git.io/streak-stats" ><img  src="https://streak-stats.demolab.com?user=Juanmadator&theme=monokai&hide_border=true&border_radius=5&locale=es" alt="GitHub Streak" /></a>
 </body>
 </html>
