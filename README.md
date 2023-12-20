@@ -10,8 +10,8 @@
        <img src="https://media.giphy.com/media/CGHy1hQ1WPKDCz5Xk6/giphy.gif" width="200" alt="">
     </div>
     <h1 align="center"><img alt="Static Badge" src="https://img.shields.io/badge/Hola-8A2BE2">
- 👋, <img alt="Static Badge" src="https://img.shields.io/badge/soy-5b2BE3">
- <img alt="Static Badge" src="https://img.shields.io/badge/Juanma-Adame-blue"></h1>
+  <img alt="Static Badge" src="https://img.shields.io/badge/soy-5b2BE3">
+ <img alt="Static Badge" src="https://img.shields.io/badge/Juanma-Adame-blue"> 👋</h1>
     <h3 align="center" >Soy un desarrollador web en proceso, de España. Me flipa aprender a base de error y programar. Utilizo lenguajes como: PHP y Javascript
     y tengo manejo en base de datos relacionales con MySql. AJAX, JQuery, Laravel...</h3>
 
