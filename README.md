@@ -9,7 +9,7 @@
     <div id="header" align="center">
        <img src="https://media.giphy.com/media/CGHy1hQ1WPKDCz5Xk6/giphy.gif" width="200" alt="">
     </div>
-    <h1 align="center">Hola 👋, soy Juanma</h1>
+    <h1 align="center">Hola 👋, soy <img alt="Static Badge" src="https://img.shields.io/badge/Juanma-Adame-blue"></h1>
     <h3 align="center" >Soy un desarrollador web en proceso, de España. Me flipa aprender a base de error y programar. Utilizo lenguajes como: PHP y Javascript
     y tengo manejo en base de datos relacionales con MySql. AJAX, JQuery, Laravel...</h3>
 
