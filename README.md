@@ -25,6 +25,8 @@
 - 🖱️  Actualmente aprendiendo **Laravel y Angular, API REST**...
 - 🏋️‍♀️ Me gusta cuidarme 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Juanmadametor&repo=github-readme-stats)](https://github.com/Juanmadametor/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanmadator&hide_progress=true)
 
 <!--<a href="https://git.io/streak-stats" ><img  src="https://streak-stats.demolab.com?user=Juanmadator&theme=monokai&hide_border=true&border_radius=5&locale=es" alt="GitHub Streak" /></a>-->
