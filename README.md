@@ -26,6 +26,9 @@
 - 🏋️‍♀️ Me gusta cuidarme 
 
 
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="juan-manuel-adame-torronteras-5812b8256" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/juan-manuel-adame-torronteras-5812b8256?trk=profile-badge">Juan Manuel Adame Torronteras</a></div>
+              
+
 
 <!--<a href="https://git.io/streak-stats" ><img  src="https://streak-stats.demolab.com?user=Juanmadator&theme=monokai&hide_border=true&border_radius=5&locale=es" alt="GitHub Streak" /></a>-->
 </body>
