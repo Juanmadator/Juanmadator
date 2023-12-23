@@ -15,7 +15,7 @@
     <h3 align="center" >Soy un desarrollador web en proceso, de España. Me flipa aprender a base de error y programar. Utilizo lenguajes como: PHP y Javascript
     y tengo manejo en base de datos relacionales con MySql. AJAX, JQuery, Laravel...</h3>
 
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="juan-manuel-adame-torronteras-5812b8256" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/juan-manuel-adame-torronteras-5812b8256?trk=profile-badge">Juan Manuel Adame Torronteras</a></div>
+
               
 
 ---
@@ -24,6 +24,7 @@
 - 🌍 Nacionalidad: 🇪🇸
 - 👨‍💻 Edad: 1️⃣9️⃣
 - 💯 Lenguajes usados: **Java, PHP, Javascript -->jQuery,Laravel,Angular**
+- Mi sitio [https://juanmadator.netlify.app/]
 - 📧 Contacto: **juanmadametor@gmail.com**
 - 🖱️  Actualmente aprendiendo **Laravel y Angular, API REST**...
 - 🏋️‍♀️ Me gusta cuidarme 
