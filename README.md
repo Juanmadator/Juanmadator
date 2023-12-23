@@ -19,7 +19,7 @@
               
 
 ---
-    ### 🙆‍♂️ About me: Mi web **https://juanmadator.netlify.app/**
+    ### 🙆‍♂️ About me: Mi web [https://juanmadator.netlify.app/]
 
 - 🌍 Nacionalidad: 🇪🇸
 - 👨‍💻 Edad: 1️⃣9️⃣
