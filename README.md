@@ -19,12 +19,11 @@
               
 
 ---
-    ### 🙆‍♂️ About me:
+    ### 🙆‍♂️ About me: Mi web **https://juanmadator.netlify.app/**
 
 - 🌍 Nacionalidad: 🇪🇸
 - 👨‍💻 Edad: 1️⃣9️⃣
 - 💯 Lenguajes usados: **Java, PHP, Javascript -->jQuery,Laravel,Angular**
-- Mi web **https://juanmadator.netlify.app/**
 - 📧 Contacto: **juanmadametor@gmail.com**
 - 🖱️  Actualmente aprendiendo **Laravel y Angular, API REST**...
 - 🏋️‍♀️ Me gusta cuidarme 
