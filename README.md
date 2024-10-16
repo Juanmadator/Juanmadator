@@ -22,7 +22,7 @@
      🙆‍♂️ About me: 
 
 - 🌍 Nacionalidad: 🇪🇸
-- 👨‍💻 Edad: 1️⃣9️⃣
+- 👨‍💻 Edad: 20
 - 💯 Lenguajes usados: **Java, PHP, Javascript -->jQuery,Laravel,Angular**
 - 📧 Contacto: **juanmadametor@gmail.com**
 - 🖱️  Actualmente aprendiendo **Laravel y Angular, API REST**...
