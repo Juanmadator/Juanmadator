@@ -25,7 +25,7 @@
 - 👨‍💻 Edad: 20
 - 💯 Lenguajes usados: **Java, PHP, Javascript -->jQuery,Laravel,Angular**
 - 📧 Contacto: **juanmadametor@gmail.com**
-- 🖱️  Actualmente aprendiendo **Laravel y Angular, API REST**...
+- 🖱️  Actualmente aprendiendo **React**
 - 🏋️‍♀️ Me gusta cuidarme
 - **Mi web: [https://juanmadator.netlify.app/]**
 
