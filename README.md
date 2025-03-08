@@ -12,8 +12,8 @@
     <h1 align="center"><img alt="Static Badge" src="https://img.shields.io/badge/Hola-8A2BE2">
   <img alt="Static Badge" src="https://img.shields.io/badge/soy-5b2BE3">
  <img alt="Static Badge" src="https://img.shields.io/badge/Juanma-Adame-blue"> 👋</h1>
-    <h3 align="center" >Soy un desarrollador web en proceso, de España. Me flipa aprender a base de error y programar. Utilizo lenguajes como: PHP y Javascript
-    y tengo manejo en base de datos relacionales con MySql. AJAX, JQuery, Laravel...</h3>
+    <h3 align="center" >Soy un desarrollador de software. Me flipa aprender a base de error y programar. Me encanta el backend aunque el frontend es también espectacular
+  </h3>
 
 
               
@@ -22,12 +22,11 @@
      🙆‍♂️ About me: 
 
 - 🌍 Nacionalidad: 🇪🇸
-- 👨‍💻 Edad: 20
-- 💯 Lenguajes usados: **Java, PHP, Javascript -->jQuery,Laravel,Angular**
+- 👨‍💻 Edad: 21
+- 💯 Lenguajes aprendidos: **Java,PHP,Javascript & Frameworks como Angular,Laravel,SpringBoot**
 - 📧 Contacto: **juanmadametor@gmail.com**
-- 🖱️  Actualmente aprendiendo **React**
+- 🖱️  Actualmente aprendiendo **MERN Stack**
 - 🏋️‍♀️ Me gusta cuidarme
-- **Mi web: [https://juanmadator.netlify.app/]**
 
 
 
