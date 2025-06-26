@@ -25,7 +25,7 @@
 - 👨‍💻 Edad: 21
 - 💯 Lenguajes aprendidos: **Java,PHP,Javascript & Frameworks como Angular,Laravel,SpringBoot**
 - 📧 Contacto: **juanmadametor@gmail.com**
-- 🖱️  Actualmente aprendiendo **MERN Stack**
+- 🖱️  **MERN Stack** **ANGULAR** **CFML**
 - 🏋️‍♀️ Me gusta cuidarme
 
 
