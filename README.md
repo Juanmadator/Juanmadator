@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/[TU_USUARIO_DE_GITHUB]">
+  <a href="https://github.com/juanmadator">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTNjaTdvcTBuam5jYm5ka3l1cHRkZGk4YWU5dWJycnVmeHU1b3JmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="200"/>
   </a>
   <br/>
@@ -52,7 +52,7 @@ Si te mola lo que hago, tienes alguna idea loca o simplemente quieres charlar de
   <a href="https://www.linkedin.com/in/juanmadator" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tu LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:[TU_EMAIL@gmail.com]" target="blank">
+  <a href="mailto:juanmadametor@gmail.com" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Tu Email" height="30" width="40" />
   </a>
 </p>
