@@ -52,9 +52,6 @@ Si te mola lo que hago, tienes alguna idea loca o simplemente quieres charlar de
   <a href="https://www.linkedin.com/in/juanmadator" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tu LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:juanmadametor@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Tu Email" height="30" width="40" />
-  </a>
 </p>
 
 ---
